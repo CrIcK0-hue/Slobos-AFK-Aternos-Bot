@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MonoPanzon_.aternos.me:56759",
+    "ip": "MonoPanzon_.aternos.me",
     "port": 56759,
     "version": "1.20.1",
     "try-creative": false
